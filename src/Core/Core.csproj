@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Coinjoin.Core</RootNamespace>
+    <AssemblyName>Coinjoin.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
